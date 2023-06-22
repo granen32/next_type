@@ -1,5 +1,5 @@
 import React from 'react';
-
+import data from '@/app/cart/data';
 const cart = () => {
   return (
     <div>
